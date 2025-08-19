@@ -6,6 +6,7 @@
 
 body{
     background-color: rgb(221, 198, 198);
+    display: none;
 }
 .nav-bar{
     width: 100%;
